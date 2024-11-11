@@ -1,6 +1,6 @@
 # Site de Campanha para Candidato a Vereador
 
-<img src="imagens/site_cadidato_luan.png" alt="Captura de tela do site de campanha">
+<img src="images/site_cadidato_luan.png" alt="Captura de tela do site de campanha">
 
 <p>Este projeto é um site de campanha para um candidato a vereador, desenvolvido para fornecer informações sobre o candidato, suas propostas e permitir que os eleitores interajam com o conteúdo, como ouvir o jingle da campanha e baixar materiais informativos.</p>
 <p>Site esse feito como uma forma de trabalho voluntário para que eu possa colocar em prática algumas coisas que eu aprendi e estou aprendendo.</p>
